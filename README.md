@@ -1,2 +1,3 @@
 # Improving-Deep-Neural-Networks
-Implement methods to improve and optimize deep neural networks from scratch.
+This repository is based on the second course (Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization) of the Deep Learning Specialization by Andrew NG.
+In this,I implemented methods like gradient checking, droupout, regularization, etc to improve and optimize deep neural networks from scratch.
